@@ -22,21 +22,17 @@ export const Desktop1: FC<Props> = memo(function Desktop1(props = {}) {
         https://t.me/jeleshkaffff
       </div>
  
-      <div className={classes.ico1}></div>
+      {/* <div className={classes.ico1}></div> */}
 
       <div className={classes.rectangle47}></div>
-      <div className={classes.QR}>Войти с помощью QR-кота </div>
+      
 
-      <input className={classes.rectangle48} type="text" />
-      <input className={classes.rectangle49} type="text" />
+      
  
-      <div className={classes.rectangle50}></div>
-      <button className={classes.unnamed2}>Вход</button>
+      {/* <div className={classes.rectangle50}></div> */}
+      
     
-      <div className={classes.unnamed3}>Пароль</div>
-      <div className={classes.unnamed4}>Логин</div>
-      {/* <div className={classes.unnamed5}>Забыли пароль?</div> */}
-      <a className={classes.unnamed5}href="#">Забыли пароль?</a>
+
       <div className={classes.polygon1}>
         <Polygon1Icon className={classes.icon4} />
       </div>

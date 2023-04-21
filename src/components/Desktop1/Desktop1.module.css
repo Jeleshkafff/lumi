@@ -160,6 +160,19 @@
   height: 36px;
   border-radius: 2px;
   background-color: #79638a;
+  color: #fff;
+  font-size: 20px;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 394px;
+  top: 515px;
+  width: 235px;
+  height: 36px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 .unnamed2 {
   color: #fff;
